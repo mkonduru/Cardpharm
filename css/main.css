@@ -1,0 +1,12 @@
+h1 {
+    height: 300 px;
+    background-color: cornflowerblue;
+  text-align: center;
+}
+
+p {
+    height: 50px;
+    width: 1200px;
+    color: lightseagreen;
+    background-color: honeydew;
+}
