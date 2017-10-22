@@ -1,0 +1,32 @@
+html {
+    background-color: dodgerblue;
+}
+
+div.parent {
+    width: 600px;
+    border: 5px solid black;
+    background-color: green;
+    margin: 0 auto;
+}
+
+div.child {
+    margin: 18px;
+}
+
+img {
+    display: block;
+    border-radius: 50%;
+    border: 20px groove orange;
+    margin: 20px auto;
+
+}
+
+
+
+.lorem1 {
+    color: deepskyblue;
+}
+
+.lorem2 {
+    color: orange;
+}
