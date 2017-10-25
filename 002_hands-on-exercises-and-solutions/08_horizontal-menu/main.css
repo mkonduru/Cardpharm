@@ -1,8 +1,10 @@
 li {
     border: 2px solid red;
     border-radius: 50px;
-    display: inline-block;
+    /*display: inline-block;*/
     font-size: 2rem;
+    width: 300px;
+    list-style: none;
 
     }
 
@@ -14,7 +16,8 @@ a {
     text-decoration: none;
     border: 2px solid black;
     border-radius: 50px;
-    display: inline-block;
+    display: block;
     padding: 10px;
+    text-align: center;
 
 }
